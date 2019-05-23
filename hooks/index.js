@@ -1,3 +1,3 @@
-import useInput from './useInput';
+import useInput from './useInput/useInput';
 
 export { useInput };

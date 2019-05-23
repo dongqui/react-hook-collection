@@ -1,0 +1,23 @@
+{
+  "name": "react-hook-collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongqui/react-hook-collection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongqui/react-hook-collection/issues"
+  },
+  "homepage": "https://github.com/dongqui/react-hook-collection#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.8.6"
+  }
+}

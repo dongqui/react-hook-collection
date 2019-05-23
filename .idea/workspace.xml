@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd2f2bcc-a3c7-4d03-ab07-97d106d4ccd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useAxios.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useAxios/useAxios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useInput/useInput.js" afterDir="false" />
-    </list>
+    <list default="true" id="fd2f2bcc-a3c7-4d03-ab07-97d106d4ccd7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +40,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hooks/useAxios/READEME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="210">
                 <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/READEME.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -103,6 +110,7 @@
         <option value="$PROJECT_DIR$/hooks/useAxios.js" />
         <option value="$PROJECT_DIR$/hooks/useInput/READEME.md" />
         <option value="$PROJECT_DIR$/hooks/useAxios/READEME.md" />
+        <option value="$PROJECT_DIR$/READEME.md" />
       </list>
     </option>
   </component>
@@ -125,23 +133,6 @@
             <path>
               <item name="react-hook-collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-hook-collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-hook-collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-hook-collection" type="462c0819:PsiDirectoryNode" />
-              <item name="hooks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-hook-collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-hook-collection" type="462c0819:PsiDirectoryNode" />
-              <item name="hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="useAxios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-hook-collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-hook-collection" type="462c0819:PsiDirectoryNode" />
-              <item name="hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="useInput" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,12 +180,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558490443876</updated>
       <workItem from="1558490445118" duration="313000" />
-      <workItem from="1558591774142" duration="3126000" />
+      <workItem from="1558591774142" duration="3250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3439000" />
+    <option name="totallyTimeSpent" value="3563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -274,6 +265,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READEME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>

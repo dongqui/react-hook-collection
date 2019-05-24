@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const useAxios = (options) => {
+const useInitData = (options) => {
   const [ state, setState ] = useState({
     loading: true,
     error: null,
@@ -32,3 +32,5 @@ const useAxios = (options) => {
 
   return { ...state, refetch };
 };
+
+export default useInitData;

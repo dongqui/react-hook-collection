@@ -19,10 +19,15 @@ const useAxios = (options) => {
   };
 
   useEffect(() => {
-    const axiosRequest = async () => {
-      const data = await axios(options);
-      setState({ ...state, loading: false, data });
+    const fetchData = async () => {
+      try {
+        const data = await axios(options);
+        setState({ ...state, loading: false, data });
+      } catch (error) {
+        setState({ ...state, loading: false, error });
+      }
     };
+    fetchData();
   }, [trigger]);
 
   return { ...state, refetch };

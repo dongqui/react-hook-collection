@@ -2,7 +2,7 @@
 ```javascript
 
 const app = () => {
-    const count = useInput('0');
+    const count = usePrevious('0');
     return (
       <div>
         <span>Count: </span>

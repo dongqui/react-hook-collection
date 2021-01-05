@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dongqui/react-hook-collection#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.8.6"
   }
 }
